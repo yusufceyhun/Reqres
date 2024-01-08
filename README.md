@@ -1,4 +1,4 @@
-Case Study for Voco 
+Reqres app - Fullstack Flutter Development MVC architecture. 
 
 ## License and Usage
 
